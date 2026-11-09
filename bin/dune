@@ -1,0 +1,4 @@
+(executable
+ (public_name winy-mar-lek)
+ (name main)
+ (libraries winy_mar_lek))
